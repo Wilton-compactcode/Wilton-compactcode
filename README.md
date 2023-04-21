@@ -2,7 +2,7 @@
   <a href="https://github.com/Wilton-compactcode">
 </div>
  
-Olá Wilton Gonçalves👋
+Olá eu sou Wilton Gonçalves👋
 
 - 🌱 Atualmente estou aprendendo Node.js
 ###
